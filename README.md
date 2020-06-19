@@ -13,3 +13,7 @@ This is the PyTorch implementation of our paper:
 </p>
 
 Code Coming Soon
+
+## Acknowledgments
+
+This work was funded by DARPA's Learning with Less Labels (LwLL) program under agreement HR0011-18-S-0044.
