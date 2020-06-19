@@ -12,6 +12,4 @@ This is the PyTorch implementation of our paper:
 <img src="teaser/concept.png" width="100%">
 </p>
 
-## How to start
-
 Code Coming Soon
