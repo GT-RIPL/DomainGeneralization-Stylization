@@ -6,12 +6,10 @@ This is the PyTorch implementation of our paper:
 **Frustratingly Simple Domain Generalization via Image Stylization**<br>
 [__***Nathan Somavarapu***__](), [Chih-Yao Ma](https://chihyaoma.github.io/), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/)<br>
 
-[[arXiv]()] [[GitHub](https://github.com/GT-RIPL/DomainGeneralization-Stylization)]
+[[arXiv(Coming Soon)]()] [[GitHub](https://github.com/GT-RIPL/DomainGeneralization-Stylization)]
 
 <p align="center">
 <img src="teaser/concept.png" width="100%">
 </p>
-
-## How to start
 
 Code Coming Soon
