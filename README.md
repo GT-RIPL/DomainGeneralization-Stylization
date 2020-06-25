@@ -4,7 +4,7 @@
 This is the PyTorch implementation of our paper:
 
 **Frustratingly Simple Domain Generalization via Image Stylization**<br>
-[__***Nathan Somavarapu***__](), [Chih-Yao Ma](https://chihyaoma.github.io/), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/)<br>
+[__***Nathan Somavarapu***__](https://nathansomavarapu.github.io/), [Chih-Yao Ma](https://chihyaoma.github.io/), [Zsolt Kira](https://www.cc.gatech.edu/~zk15/)<br>
 
 [[arXiv](https://arxiv.org/pdf/2006.11207.pdf)] [[GitHub](https://github.com/GT-RIPL/DomainGeneralization-Stylization)]
 
